@@ -6,6 +6,11 @@ Why? I've been posting yearly reviews for quite some time now but did were just 
 
 ## What's in here?
 
+### Goals
+
+* [2017](goals/2017.md)
+* [2016](goals/2016.md)
+
 ### Content lists
 
 Here are movies, TV shows, podcasts and much more what I've "consumed" over the years but also those that I really want to enjoy but haven't yet found the time for.
