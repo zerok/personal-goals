@@ -31,6 +31,7 @@ Everything in-progress is also something I at this point also want to finish:
 | Abstract | 1… | ⭐️⭐️⭐️ |
 | Lucifer | 1-2… | ⭐️⭐️⭐️ |
 | The Blacklist | 1-2… | ⭐️⭐️⭐️⭐️ |
+| The Grand Tour | 1-2… | ⭐️⭐️⭐️⭐️ | 
 
 … means that I’m currently in the process of watching this season.
 
