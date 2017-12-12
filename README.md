@@ -16,6 +16,7 @@ Why? I've been posting yearly reviews for quite some time now but did were just 
 Here are movies, TV shows, podcasts and much more what I've "consumed" over the years but also those that I really want to enjoy but haven't yet found the time for.
 
 * [📚 Books](content-list/books.md)
+* [🎮 Games](content-list/games.md)
 * [📺 TV](content-list/television.md)
 
 ## Inspiration
