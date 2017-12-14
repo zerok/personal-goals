@@ -5,8 +5,9 @@
 These are shows that are on my radar and absolutely want to give a try in the near future.
 
 - Altered Carbon (Netflix, February 2018)
-- The Punisher (Netflix)
+- Bright (Netflix, December 2017)
 - Orphan Black (Netflix)
+- The Punisher (Netflix)
 
 ## Backlog
 
