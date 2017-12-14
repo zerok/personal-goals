@@ -22,9 +22,10 @@ These are games that I’ve already purchased but haven’t yet found the time t
 
 ## Completed
 
-| Name | Platform | Rating |
-|:--|:--|:--|
-| Super Mario Odyssey | Nintendo Switch | ⭐️⭐️⭐️⭐️⭐️ |
+| Name | Platform | Rating | Year |
+|:--|:--|:--|:--|
+| Picross 3D: Round 2 | Nintendo 3DS | ⭐️⭐️⭐️⭐️ | 2017 |
+| Super Mario Odyssey | Nintendo Switch | ⭐️⭐️⭐️⭐️⭐️ | 2017 |
 |  |  |  |
 
 ## Abandoned
