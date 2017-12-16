@@ -3,7 +3,6 @@
 ## Currently reading
 
 - *[Artemis][]* by Andy Weir
-- *[Learning VIMscript the Hard Way][]* by Steve Losh
 - *[Die Känguru-Chroniken][]* by Marc-Uwe Kling
 
 [artemis]: http://www.andyweirauthor.com/books/artemis-hc
@@ -15,4 +14,5 @@
 
 | Title | Author | Genre | Rating | Started | Finished |
 |:--|:--|:--|:--|:--|:--|
+| [Learning VIMscript the hard way][] | Steve Losh | Technical | ⭐️⭐️⭐️⭐️⭐️ | Dec 04 | Dec 16 |
 | Animation at work | Rachel Nabors | Technical | ⭐️⭐️⭐️⭐️⭐️ | Nov 28 | Dec 03 |
