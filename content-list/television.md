@@ -7,7 +7,6 @@ These are shows that are on my radar and absolutely want to give a try in the ne
 - Altered Carbon (Netflix, February 2018)
 - Bright (Netflix, December 2017)
 - Orphan Black (Netflix)
-- The Punisher (Netflix)
 
 ## Backlog
 
@@ -32,8 +31,9 @@ Everything in-progress is also something I at this point also want to finish:
 |:--|:--|:--|
 | Abstract | 1… | ⭐️⭐️⭐️ |
 | Lucifer | 1-2… | ⭐️⭐️⭐️ |
-| The Blacklist | 1-2… | ⭐️⭐️⭐️⭐️ |
+| The Blacklist | 1-3… | ⭐️⭐️⭐️⭐️ |
 | The Grand Tour | 1-2… | ⭐️⭐️⭐️⭐️ | 
+| The Punisher | 1… | | 
 
 … means that I’m currently in the process of watching this season.
 
