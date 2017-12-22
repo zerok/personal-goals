@@ -6,6 +6,8 @@ Why? I've been posting yearly reviews for quite some time now but did were just 
 
 ## What's in here?
 
+* [Places I want to visit](places.md)
+
 ### Goals
 
 * [2017](goals/2017.md)
