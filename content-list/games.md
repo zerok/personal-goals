@@ -12,7 +12,6 @@ These are games that I’ve already purchased but haven’t yet found the time t
 | Name | Platform |
 |:--|:--|
 | Axiom Verge | PC |
-| Mario Kart 8 Deluxe | Nintendo Switch |
 | The Legend of Zelda: Breath of the wild | Nintendo Switch |
 
 ## Currently playing
@@ -20,6 +19,7 @@ These are games that I’ve already purchased but haven’t yet found the time t
 | Name | Platform |
 |:--|:--|
 | Mario + Rabbits | Nintendo Switch |
+| Mario Kart 8 Deluxe | Nintendo Switch |
 
 ## Completed
 
