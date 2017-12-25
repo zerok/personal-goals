@@ -2,13 +2,13 @@
 
 ## Currently reading
 
-- *[Artemis][]* by Andy Weir
 - *[Concurrency in Go][]* by Cathrine Cox-Buday (started on Dec 16th, 2017)
 
 ## Completed
 ### 2017
 | Title | Author | Genre | Rating | Started | Finished |
 |:--|:--|:--|:--|:--|:--|
+| [Artemis][]  | Andy Weir | SciFi | ⭐️⭐️⭐️⭐️ | Dec 3 | Dec 24 |
 | [Die Känguru-Chroniken][] | Marc-Uwe Kling | Comedy | ⭐️⭐️⭐️⭐️⭐️ | Dec 10 | Dec 16 |
 | [Learning VIMscript the hard way][] | Steve Losh | Technical | ⭐️⭐️⭐️⭐️⭐️ | Dec 04 | Dec 16 |
 | Animation at work | Rachel Nabors | Technical | ⭐️⭐️⭐️⭐️⭐️ | Nov 28 | Dec 03 |
