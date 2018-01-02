@@ -8,6 +8,7 @@
 ### 2017
 | Title | Author | Genre | Rating | Started | Finished |
 |:--|:--|:--|:--|:--|:--|
+| Frankenstein; or, The Modern Prometheus  | Mary Shelley | Horror | ⭐️⭐️⭐️⭐️ | Dec 24 | Dec 29 |
 | [Artemis][]  | Andy Weir | SciFi | ⭐️⭐️⭐️⭐️ | Dec 3 | Dec 24 |
 | [Die Känguru-Chroniken][] | Marc-Uwe Kling | Comedy | ⭐️⭐️⭐️⭐️⭐️ | Dec 10 | Dec 16 |
 | [Learning VIMscript the hard way][] | Steve Losh | Technical | ⭐️⭐️⭐️⭐️⭐️ | Dec 04 | Dec 16 |
