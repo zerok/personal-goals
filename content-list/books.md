@@ -3,8 +3,14 @@
 ## Currently reading
 
 - *[Concurrency in Go][]* by Cathrine Cox-Buday (started on Dec 16th, 2017)
+- *The Girl with all the gifts* by M. R. Carey (started on Jan 4th, 2017)
 
 ## Completed
+### 2018
+| Title | Author | Genre | Rating | Started | Finished |
+|:--|:--|:--|:--|:--|:--|
+| Strange Dogs (The Expanse #6.5) | James SA Corey | SciFi | ⭐️⭐️⭐️⭐️⭐️ | Jan 2 | Jan 4 |
+
 ### 2017
 | Title | Author | Genre | Rating | Started | Finished |
 |:--|:--|:--|:--|:--|:--|
