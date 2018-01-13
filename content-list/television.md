@@ -15,7 +15,6 @@ All the shows that I absolutely want to continue watching and that already have 
 | Name | Seasons watched | Rating |
 |:--|:--|:--|
 | Arrow  | 2 | ⭐️⭐️⭐️ |
-| Black Mirror | 1 | ⭐️⭐️⭐️⭐️ |
 | Doctor Who | Series 1-9 | ⭐️⭐️⭐️⭐️⭐️ |
 | Elementary | 2 | ⭐️⭐️⭐️⭐️ |
 | Kill Joys | 1 | ⭐️⭐️⭐️⭐️ |
@@ -30,7 +29,9 @@ Everything in-progress is also something I at this point also want to finish:
 | Name | Seasons | Rating |
 |:--|:--|:--|
 | Abstract | 1… | ⭐️⭐️⭐️ |
+| Black Mirror | 1-2… | ⭐️⭐️⭐️⭐️ |
 | Lucifer | 1-2… | ⭐️⭐️⭐️ |
+| Star Trek: Discovery | 1… | ⭐️⭐️⭐️⭐️ |
 | The Blacklist | 1-3… | ⭐️⭐️⭐️⭐️ |
 | The Grand Tour | 1-2… | ⭐️⭐️⭐️⭐️ | 
 | The Punisher | 1… | | 
@@ -47,7 +48,6 @@ All the shows that are still being produced but have no new episodes on Netflix 
 | Iron Fist | 1 | ⭐️⭐️ |
 | Jessica Jones | 1 | ⭐️⭐️⭐️⭐️ |
 | Luke Cage | 1 | ⭐️⭐️⭐️⭐️ |
-| Star Trek: Discovery | 1… | ⭐️⭐️⭐️⭐️ |
 
 
 ## Abandoned
