@@ -2,13 +2,16 @@
 
 ## Currently reading
 
-- *[Concurrency in Go][]* by Cathrine Cox-Buday (started on Dec 16th, 2017)
-- *The Girl with all the gifts* by M. R. Carey (started on Jan 4th, 2017)
+* *Eine kurze Geschichte der Menschheit* by  Yuval Noah Harari (translated by Jürgen Neubauer) (started on Jan 21)
 
 ## Completed
 ### 2018
 | Title | Author | Genre | Rating | Started | Finished |
 |:--|:--|:--|:--|:--|:--|
+| Blockchain Basics: A Non-Technical Introduction in 25 Steps | Daniel Drescher | Technical | ⭐️⭐️⭐️ | Jan 14 | Jan 23 |
+| A Wrinkle in Time | Madeleine L'Engle | SciFi | ⭐️⭐️⭐️⭐️ | Jan 18 | Jan 21 |
+| The Girl with all the gifts | M. R. Carey | SciFi | ⭐️⭐️⭐️⭐️⭐️ | Jan 4 | Jan 18 |
+| Concurrency in Go | Katherine Cox-Buday | Technical | ⭐️⭐️⭐️⭐️⭐️ | Dec 16, 2017 | Jan 13 |
 | Strange Dogs (The Expanse #6.5) | James SA Corey | SciFi | ⭐️⭐️⭐️⭐️⭐️ | Jan 2 | Jan 4 |
 
 ### 2017
