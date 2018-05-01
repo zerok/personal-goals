@@ -4,8 +4,6 @@
 
 These are shows that are on my radar and absolutely want to give a try in the near future.
 
-- Altered Carbon (Netflix, February 2018)
-- Bright (Netflix, December 2017)
 - Orphan Black (Netflix)
 
 ## Backlog
@@ -15,11 +13,8 @@ All the shows that I absolutely want to continue watching and that already have 
 | Name | Seasons watched | Rating |
 |:--|:--|:--|
 | Arrow  | 2 | ⭐️⭐️⭐️ |
-| Doctor Who | Series 1-9 | ⭐️⭐️⭐️⭐️⭐️ |
 | Elementary | 2 | ⭐️⭐️⭐️⭐️ |
-| Kill Joys | 1 | ⭐️⭐️⭐️⭐️ |
 | Sherlock | 3 | ⭐️⭐️⭐️⭐️⭐️ |
-
 
 
 ## In-progress
@@ -29,9 +24,8 @@ Everything in-progress is also something I at this point also want to finish:
 | Name | Seasons | Rating |
 |:--|:--|:--|
 | Abstract | 1… | ⭐️⭐️⭐️ |
-| Black Mirror | 1-2… | ⭐️⭐️⭐️⭐️ |
 | Lucifer | 1-2… | ⭐️⭐️⭐️ |
-| Star Trek: Discovery | 1… | ⭐️⭐️⭐️⭐️ |
+| The Alienist | 1… | |
 | The Blacklist | 1-3… | ⭐️⭐️⭐️⭐️ |
 | The Grand Tour | 1-2… | ⭐️⭐️⭐️⭐️ | 
 | The Punisher | 1… | | 
@@ -44,10 +38,15 @@ All the shows that are still being produced but have no new episodes on Netflix 
 
 | Name | Seasons | Rating |
 |:--|:--|:--|
+| Altered Carbon | 1 | ⭐️⭐️⭐️⭐️⭐️ |
+| Black Mirror | 1-3… | ⭐️⭐️⭐️⭐️ |
 | Dare Devil | 2 | ⭐️⭐️⭐️ |
+| Doctor Who | Series 1-10 | ⭐️⭐️⭐️⭐️⭐️ |
 | Iron Fist | 1 | ⭐️⭐️ |
 | Jessica Jones | 1 | ⭐️⭐️⭐️⭐️ |
+| Kill Joys | 2 | ⭐️⭐️⭐️⭐️ |
 | Luke Cage | 1 | ⭐️⭐️⭐️⭐️ |
+| Star Trek: Discovery | 1 | ⭐️⭐️⭐️⭐️ |
 
 
 ## Abandoned
@@ -63,6 +62,7 @@ All the shows that are still being produced but have no new episodes on Netflix 
 
 | Name | Year | Rating |
 |:--|:--|:--|
+| Bright | 2018 | ⭐️⭐️ |
 | Burn Notice | 2016 | ⭐️⭐️⭐️⭐️⭐️ |
 | Charmed | ? | ⭐️⭐️⭐️ |
 | Firefly | ? | ⭐️⭐️⭐️⭐️⭐️ |
