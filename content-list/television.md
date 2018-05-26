@@ -42,6 +42,7 @@ All the shows that are still being produced but have no new episodes on Netflix 
 | Black Mirror | 1-3… | ⭐️⭐️⭐️⭐️ |
 | Dare Devil | 2 | ⭐️⭐️⭐️ |
 | Doctor Who | Series 1-10 | ⭐️⭐️⭐️⭐️⭐️ |
+| Happy! | 1 | ⭐️⭐️⭐️⭐️⭐️ |
 | Iron Fist | 1 | ⭐️⭐️ |
 | Jessica Jones | 1 | ⭐️⭐️⭐️⭐️ |
 | Kill Joys | 2 | ⭐️⭐️⭐️⭐️ |
