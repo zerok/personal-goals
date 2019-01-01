@@ -11,6 +11,7 @@ Why? I've been posting yearly reviews for quite some time now but did were just 
 
 ### Goals
 
+* [2019](goals/2019.md)
 * [2017](goals/2017.md)
 * [2016](goals/2016.md)
 
